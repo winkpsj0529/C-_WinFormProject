@@ -1,0 +1,17 @@
+c:\users\user\documents\visual studio 2017\Projects\WinFormProject_M\WinFormProject_M\bin\Debug\WinFormProject_M.exe.config
+c:\users\user\documents\visual studio 2017\Projects\WinFormProject_M\WinFormProject_M\bin\Debug\WinFormProject_M.exe
+c:\users\user\documents\visual studio 2017\Projects\WinFormProject_M\WinFormProject_M\bin\Debug\WinFormProject_M.pdb
+c:\users\user\documents\visual studio 2017\Projects\WinFormProject_M\WinFormProject_M\obj\Debug\WinFormProject_M.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\WinFormProject_M\WinFormProject_M\obj\Debug\WinFormProject_M.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\WinFormProject_M\WinFormProject_M\obj\Debug\WinFormProject_M.exe
+c:\users\user\documents\visual studio 2017\Projects\WinFormProject_M\WinFormProject_M\obj\Debug\WinFormProject_M.pdb
+c:\users\user\documents\visual studio 2017\Projects\WinFormProject_M\WinFormProject_M\obj\Debug\WinFormProject_M.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\WinFormProject_M\WinFormProject_M\bin\Debug\MySql.Data.dll
+c:\users\user\documents\visual studio 2017\Projects\WinFormProject_M\WinFormProject_M\bin\Debug\Google.Protobuf.dll
+c:\users\user\documents\visual studio 2017\Projects\WinFormProject_M\WinFormProject_M\bin\Debug\Renci.SshNet.dll
+c:\users\user\documents\visual studio 2017\Projects\WinFormProject_M\WinFormProject_M\bin\Debug\BouncyCastle.Crypto.dll
+c:\users\user\documents\visual studio 2017\Projects\WinFormProject_M\WinFormProject_M\bin\Debug\MySql.Data.xml
+c:\users\user\documents\visual studio 2017\Projects\WinFormProject_M\WinFormProject_M\obj\Debug\WinFormProject_M.Form1.resources
+c:\users\user\documents\visual studio 2017\Projects\WinFormProject_M\WinFormProject_M\obj\Debug\WinFormProject_M.Form2.resources
+c:\users\user\documents\visual studio 2017\Projects\WinFormProject_M\WinFormProject_M\obj\Debug\WinFormProject_M.Form3.resources
+c:\users\user\documents\visual studio 2017\Projects\WinFormProject_M\WinFormProject_M\obj\Debug\WinFormProject_M.Form4.resources
